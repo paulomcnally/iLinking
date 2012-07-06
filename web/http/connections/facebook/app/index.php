@@ -1,0 +1,2 @@
+<div align="center"><img src="https://si3.twimg.com/client_application_images/199348/mobile-icon.png" alt="Icon" /></div>
+<div align="center"><h1>Visita www.ilinking.com para activar tu cuenta con Facebook y enviar publicaciones con mensajes de texto.</h1></div>
